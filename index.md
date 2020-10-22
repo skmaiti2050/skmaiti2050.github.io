@@ -1,9 +1,9 @@
 ## Welcome!
-I'm **Sujit Maiti** , a 19 year old geek doing some random stuffs.
+I'm **Sujit Maiti** , a 21 year old geek doing some random stuffs.
 
-_Currently, I'm a first year computer engineering student at AITD Assagao, Goa_
+_Currently, I'm a third year computer engineering student at AITD Assagao, Goa_
 
-### Follow me on Instagram :)
-- You can [follow me on Instagram](https://www.instagram.com/sxjytz)
+### SDES Calculator
+- [Step by step SDES calculator](https://skmaiti2050.github.io/sdes.html)
 
 `The site is maintained by Sujit Maiti`
